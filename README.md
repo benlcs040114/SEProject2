@@ -135,12 +135,12 @@ Testing and Optimization(Colin,Kian,Ben,Terrence,Rick) <br>
 04/11-04/19 test the game and make sure there are no mistakes to play and Increased playability for players
 
 ## Future Plan:
-Create Endless mode
-Create gun models
-Create more enemy varieties
-Make game sessions longer
-Create more abilities for players
-Create more maps
+Create Endless mode <br>
+Create gun models <br>
+Create more enemy varieties <br>
+Make game sessions longer <br>
+Create more abilities for players <br>
+Create more maps <br>
 
 ## Current status
 The game is in demo stages. Which means it is ready for playtesting and users can offer feedback. <br>
