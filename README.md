@@ -4,7 +4,6 @@
 
 This FPS game is an offline firstperson hordeshooter, where it will run on Windows PC. It takes the player into a dark baby’s nursery where you shoot down countless waves of undead toys and survive until the timer runs out
 
-*Insert diagram or video here*
 
 ![Screenshot (64)](https://github.com/benlcs040114/SEProject2/assets/167516070/d6a64ccf-15c9-43b5-88f2-ca5897c8356e)
 
@@ -18,18 +17,6 @@ This FPS game is an offline firstperson hordeshooter, where it will run on Windo
 
 ![Screenshot (78)](https://github.com/benlcs040114/SEProject2/assets/167516070/86899e72-5170-4f69-992b-d6696abf5174)
 
-
-
-
-
-
-
-
-
-
-
-
-
 User instructions (Installations)
 
 ## How to install this game
@@ -39,9 +26,10 @@ Currently, you have to contact developers directly to get the game itself. But o
 This game is still in development, so it is still incomplete. The following items are issues found in our game:
 Current score not showing when you win
 “Help me” tab isn’t displaying some words
+Allow players to not write a name in the score
 
 
-## H1 Purpose of the software
+## Purpose of the software
 
 The purpose of this app is to entertain users. The goal of Baby Gun is to eliminate as much enemies as you can to reach a high score. There are various features that helps with achieving this tasks.
 
@@ -60,54 +48,6 @@ Our demographic are gamers, more specifically, gamers who are into FPS genre as 
 
 
 ## Development Process
-
-
-Preparation and design phase(Rick, Terrence)
-3.13-3.15 Startup and Setup
-Install and set up the Unity environment.
-Create a new project and set up the version control system
-
-3.16-3.19 conceptual design
-Determine game type and theme:FPS
-Develop game design documentation.
-
-3.20-3.23 Technical Validation and Initial Framework
-Do some basic technical validation, such as shooting mechanics, physics reactions, etc.
-Start building the basic framework of the game (game loop, basic inputs and outputs, etc.).
-
-
-
-Environment and role development(Ben,Kian,Colin)
-3.24-3.28 Environment Building
-Import and set up required resources such as terrain, buildings, etc.
-Initially build the main scene of the game.
-
-3.28-4.2 Character and Animation
-Import character models and implement a basic animation system.
-Implement basic character movement and camera control.
-
-Weapon and Enemy Development& UI Development and Game Logic(at the same time)
-1. Weapon and Enemy Development(Kian,Colin)
-4.2-4.5 Weapon System Development
-Implement weapon models and firing mechanisms.
-Add weapon effects and sound effects.
-
-4.5-4.10 Enemy AI Development
-Design and implement basic enemy AI (e.g. patrols, tracking players).
-Test and adjust AI behavior. 
-2.UI Development and Game Logic(Ben,Terrence)
-4.2-4.5 UI Design and Implementation
-Design and implement the game's user interface.
-Connect UI to game logic (e.g., life values, scoring system).
-
-4.6-4.10 Refine Game Logic
-Implement the game's scoring system, life system, etc.
-Complete coding and initial testing of all game processes.
-
-Testing and Optimization(Colin,Kian,Ben,Terrence,Rick)
-4.11-4.19 test the game and make sure there are no mistakes to play and Increased playability for players
-
-
 
 ## User requirements:
 We wanted to make a game targeted to FPS gamers, so the following items are the core fundamental requirements:
@@ -147,7 +87,49 @@ Graphics Card: DirectX 10 compatible with at least 2 GB VRAM
 Storage: 10 GB of available space
 Input: Keyboard and mouse
 
+Preparation and design phase(Rick, Terrence):
+03/13-03/15 Startup and Setup
+Install and set up the Unity environment.
+Create a new project and set up the version control system
 
+03/16-03/19 conceptual design
+Determine game type and theme:FPS
+Develop game design documentation.
+
+03/20-03/23 Technical Validation and Initial Framework
+Do some basic technical validation, such as shooting mechanics, physics reactions, etc.
+Start building the basic framework of the game (game loop, basic inputs and outputs, etc.).
+
+
+Environment and role development(Ben,Kian,Colin):
+03/24-03/28 Environment Building
+Import and set up required resources such as terrain, buildings, etc.
+Initially build the main scene of the game.
+
+03/28-04/02 Character and Animation
+Import character models and implement a basic animation system.
+Implement basic character movement and camera control.
+
+Weapon and Enemy Development& UI Development and Game Logic(at the same time)
+1. Weapon and Enemy Development(Kian,Colin)
+04/02-04/05 Weapon System Development
+Implement weapon models and firing mechanisms.
+Add weapon effects and sound effects.
+
+04/05-04/10 Enemy AI Development
+Design and implement basic enemy AI (e.g. patrols, tracking players).
+Test and adjust AI behavior. 
+2.UI Development and Game Logic(Ben,Terrence)
+4.2-4.5 UI Design and Implementation
+Design and implement the game's user interface.
+Connect UI to game logic (e.g., life values, scoring system).
+
+04/06-04/10 Refine Game Logic
+Implement the game's scoring system, life system, etc.
+Complete coding and initial testing of all game processes.
+
+Testing and Optimization(Colin,Kian,Ben,Terrence,Rick)
+04/11-04/19 test the game and make sure there are no mistakes to play and Increased playability for players
 
 ## Future Plan:
 Implement Endless mode
