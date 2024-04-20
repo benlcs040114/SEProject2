@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -12,6 +12,7 @@ public class startbutton : MonoBehaviour {
     }
     public void GameStart()
     {
-        GameManager.instance.SwitchScene("main");//switch scene
+        SceneManager.LoadScene("main");
+      //  GameManager.instance.SwitchScene("main");//switch scene
     }
 }
