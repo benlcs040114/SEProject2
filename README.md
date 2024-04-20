@@ -6,6 +6,13 @@ This FPS game is an offline firstperson hordeshooter, where it will run on Windo
 
 *Insert diagram or video here*
 
+![Screenshot (64)](https://github.com/benlcs040114/SEProject2/assets/167516070/d6a64ccf-15c9-43b5-88f2-ca5897c8356e)
+
+![Screenshot (66)](https://github.com/benlcs040114/SEProject2/assets/167516070/9d0e38d8-7cad-4855-94e7-5453037162e5)
+
+![Screenshot (78)](https://github.com/benlcs040114/SEProject2/assets/167516070/86899e72-5170-4f69-992b-d6696abf5174)
+
+
 
 
 
