@@ -18,7 +18,6 @@ https://youtu.be/FfxonnlQqSs
 
 ![Screenshot (78)](https://github.com/benlcs040114/SEProject2/assets/167516070/86899e72-5170-4f69-992b-d6696abf5174)
 
-User instructions (Installations)
 
 ## How to install this game
 Currently, you have to contact developers directly to get the game itself. But once you have it, unzip the file (extract all), then go inside the folder of the unzipped file, and go to the application titled “Baby Gun”. Then the game should start running
