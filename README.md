@@ -63,72 +63,73 @@ Music <br>
 Replayability <br>
 
 ## Functional requirements
-The game should spawn enemies at random locations within the game world.
-The player character should have a health bar that decreases when hit by enemies.
-The player should have a sprint mechanic
-The player should be able to move the character using keyboard or controller inputs.
-The game should include power-ups or pickups that provide health to the character
-The game should include a HUD that shows relevant information such as health and score
-The game should have a scoring system
-The game should have a difficulty setting
+The game should spawn enemies at random locations within the game world <br>
+The player character should have a health bar that decreases when hit by enemies <br>
+The player should have a sprint mechanic <br>
+The player should be able to move the character using keyboard or controller inputs <br>
+The game should include power-ups or pickups that provide health to the character <br>
+The game should include a HUD that shows relevant information such as health and score <br>
+The game should have a scoring system <br>
+The game should have a difficulty setting <br>
 
 ## Non-functional requirements
-Performance: The game should maintain a consistent and smooth frame rate, providing a responsive and immersive gameplay experience without significant lag or delays
-Usability: The game should have intuitive controls and a user-friendly interface, allowing players to easily understand and navigate the game without extensive tutorials or instructions.
-Compatibility: The game should be compatible with Windows and PC.
-Stability: The game should be stable and free from crashes, freezes, or other technical issues that could disrupt the gameplay experience.
-Maintainability: The game's code and assets should be well-organized, documented, and maintainable, facilitating future updates, bug fixes, and feature enhancements.
+Performance: The game should maintain a consistent and smooth frame rate, providing a responsive and immersive gameplay experience without significant lag or delays <br>
+Usability: The game should have intuitive controls and a user-friendly interface, allowing players to easily understand and navigate the game without extensive tutorials or instructions. <br>
+Compatibility: The game should be compatible with Windows and PC. <br>
+Stability: The game should be stable and free from crashes, freezes, or other technical issues that could disrupt the gameplay experience. <br>
+Maintainability: The game's code and assets should be well-organized, documented, and maintainable,  facilitating future updates, bug fixes, and feature enhancements. <br>
 
 ## System requirements:
-Operating System: Windows 10+
-Processor: Intel Core 2 Duo CPU
-Memory (RAM): 4 GB
-Graphics Card: DirectX 10 compatible with at least 2 GB VRAM
-Storage: 10 GB of available space
-Input: Keyboard and mouse
+Operating System: Windows 10+ <br>
+Processor: Intel Core 2 Duo CPU <br>
+Memory (RAM): 4 GB <br>
+Graphics Card: DirectX 10 compatible with at least 2 GB VRAM <br>
+Storage: 10 GB of available space <br>
+Input: Keyboard and mouse <br>
 
-Preparation and design phase(Rick, Terrence):
-03/13-03/15 Startup and Setup
-Install and set up the Unity environment.
-Create a new project and set up the version control system
+Preparation and design phase(Rick, Terrence): <br>
+03/13-03/15 Startup and Setup <br>
+Install and set up the Unity environment. <br>
+Create a new project and set up the version control system <br>
 
-03/16-03/19 conceptual design
-Determine game type and theme:FPS
-Develop game design documentation.
+03/16-03/19 conceptual design <br>
+Determine game type and theme: FPS <br>
+Develop game design documentation <br>
 
-03/20-03/23 Technical Validation and Initial Framework
-Do some basic technical validation, such as shooting mechanics, physics reactions, etc.
-Start building the basic framework of the game (game loop, basic inputs and outputs, etc.).
+03/20-03/23 Technical Validation and Initial Framework <br>
+Do some basic technical validation, such as shooting mechanics, physics reactions, etc. <br>
+Start building the basic framework of the game (game loop, basic inputs and outputs, etc.) <br>
 
 
-Environment and role development(Ben,Kian,Colin):
-03/24-03/28 Environment Building
-Import and set up required resources such as terrain, buildings, etc.
-Initially build the main scene of the game.
+Environment and role development(Ben,Kian,Colin): <br>
+03/24-03/28 Environment Building <br>
+Import and set up required resources such as terrain, buildings, etc. <br>
+Initially build the main scene of the game <br>
 
-03/28-04/02 Character and Animation
-Import character models and implement a basic animation system.
-Implement basic character movement and camera control.
+03/28-04/02 Character and Animation <br>
+Import character models and implement a basic animation system <br>
+Implement basic character movement and camera control <br>
 
-Weapon and Enemy Development& UI Development and Game Logic(at the same time)
-1. Weapon and Enemy Development(Kian,Colin)
-04/02-04/05 Weapon System Development
-Implement weapon models and firing mechanisms.
-Add weapon effects and sound effects.
+Weapon and Enemy Development& UI Development and Game Logic(at the same time) <br>
+1. Weapon and Enemy Development(Kian,Colin) <br>
+04/02-04/05 Weapon System Development <br>
+Implement weapon models and firing mechanisms <br>
+Add weapon effects and sound effects. <br>
 
-04/05-04/10 Enemy AI Development
-Design and implement basic enemy AI (e.g. patrols, tracking players).
-Test and adjust AI behavior. 
-2.UI Development and Game Logic(Ben,Terrence)
-4.2-4.5 UI Design and Implementation
-Design and implement the game's user interface.
-Connect UI to game logic (e.g., life values, scoring system).
+04/05-04/10 Enemy AI Development <br>
+Design and implement basic enemy AI (e.g. patrols, tracking players) <br>
+Test and adjust AI behavior <br>
 
-04/06-04/10 Refine Game Logic
-Implement the game's scoring system, life system, etc.
-Complete coding and initial testing of all game processes.
+2.UI Development and Game Logic(Ben,Terrence) <br>
+4.2-4.5 UI Design and Implementation <br>
+Design and implement the game's user interface. <br>
+Connect UI to game logic (e.g., life values, scoring system) <br>
 
-Testing and Optimization(Colin,Kian,Ben,Terrence,Rick)
+04/06-04/10 Refine Game Logic <br>
+Implement the game's scoring system, life system, etc <br>
+Complete coding and initial testing of all game processes <br>
+
+Testing and Optimization(Colin,Kian,Ben,Terrence,Rick) <br>
 04/11-04/19 test the game and make sure there are no mistakes to play and Increased playability for players
 
 ## Future Plan:
