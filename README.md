@@ -50,17 +50,17 @@ Our demographic are gamers, more specifically, gamers who are into FPS genre as 
 ## Development Process
 
 ## User requirements:
-We wanted to make a game targeted to FPS gamers, so the following items are the core fundamental requirements:
-Firstperson view
-Firstperson movement
-Fps shooter
-Enemies chasing player
-Various enemies
-Score system
-Graphics
-SFX
-Music
-Replayability
+We wanted to make a game targeted to FPS gamers, so the following items are the core fundamental requirements: <br>
+Firstperson view <br>
+Firstperson movement<br>
+Fps shooter <br>
+Enemies chasing player <br>
+Various enemies <br>
+Score system <br>
+Graphics <br>
+SFX <br>
+Music <br>
+Replayability <br>
 
 ## Functional requirements
 The game should spawn enemies at random locations within the game world.
