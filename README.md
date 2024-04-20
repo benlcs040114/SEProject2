@@ -147,11 +147,11 @@ The game is in demo stages. Which means it is ready for playtesting and users ca
 Many features are still unpolished and unoptimized. 
 
 ## Declaration:
-Game Engine: Unity game engine
-Programming languages: C#
-Monobehaviour: Unity’s component-based architecture
-ModularFirstPersonController: by Jess Chase
-Prefabs (Models, pictures, plugins, sound effects):
-Zombie Toys made by UNITY EDUCATION (zombie toys - Asset Store (unity.com)
+Game Engine: Unity game engine <br>
+Programming languages: C# <br>
+Monobehaviour: Unity’s component-based architecture <br>
+ModularFirstPersonController: by Jess Chase <br>
+Prefabs (Models, pictures, plugins, sound effects): 
+Zombie Toys made by UNITY EDUCATION (zombie toys - Asset Store (unity.com) <br>
 The picture of Win.
-vectorstock.com/royalty-free-vector/you-win-poster-with-prize-cup-vector-17052074
+vectorstock.com/royalty-free-vector/you-win-poster-with-prize-cup-vector-17052074 
