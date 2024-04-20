@@ -87,6 +87,8 @@ Graphics Card: DirectX 10 compatible with at least 2 GB VRAM <br>
 Storage: 10 GB of available space <br>
 Input: Keyboard and mouse <br>
 
+## Scheduling
+
 Preparation and design phase(Rick, Terrence): <br>
 03/13-03/15 Startup and Setup <br>
 Install and set up the Unity environment. <br>
@@ -133,12 +135,16 @@ Testing and Optimization(Colin,Kian,Ben,Terrence,Rick) <br>
 04/11-04/19 test the game and make sure there are no mistakes to play and Increased playability for players
 
 ## Future Plan:
-Implement Endless mode
-Gun models
-More enemies
-Longer game sessions
-More abilities
-More maps
+Create Endless mode
+Create gun models
+Create more enemy varieties
+Make game sessions longer
+Create more abilities for players
+Create more maps
+
+## Current status
+The game is in demo stages. Which means it is ready for playtesting and users can offer feedback. <br>
+Many features are still unpolished and unoptimized. 
 
 ## Declaration:
 Game Engine: Unity game engine
